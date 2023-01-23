@@ -1,4 +1,4 @@
-name: git Integration
+name: jenkins Integration
 
 on:
  pull_request:
